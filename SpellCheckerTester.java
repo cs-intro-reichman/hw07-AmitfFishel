@@ -1,4 +1,4 @@
-public class SpellChecker {
+public class SpellCheckerTester {
 
     public static void main(String[] args) {
         String word = args[0];
